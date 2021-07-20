@@ -26,6 +26,10 @@
 1. 等待开发者更换新的Testflight邀请链接；
 2. 参阅[iOS自签教程](/help/ios-self-sign)。
 
+## 提示 “Sonolus” Beta已过期 怎么办？
+
+前往[Sonolus官网](https://sonolus.com)重新接受Testflight邀请即可。
+
 ## 有没有xx游戏/xx游戏的地址是什么？
 
 参阅[服务器列表](/server-list)。
