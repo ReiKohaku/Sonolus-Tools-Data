@@ -10,6 +10,8 @@
 
 ## 列表
 
+*提示：由于**日本东京**线路使用人数较多，月末可能会由于流量耗尽，出现无法使用的情况。出现这种情况时，请您更换线路使用。*
+
 :::server-card
 title: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku","ja-JP":"プロジェクトセカイ-カラフルステージ！feat. 初音ミク"}
 caption: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来官谱","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku official charts","ja-JP":"プロセカの公式譜面"}
