@@ -5,6 +5,14 @@
 在这里你可以查询到有关 Sonolus 的信息与教程。
 请您展开左侧的菜单查看相关文章。
 
+## 下载与更新
+
+如果需要下载最新版本的Sonolus，请移步至官网下载。
+**反代官网**是通过反向代理技术创建的Sonolus官网，具有与Sonolus官网完全一致的内容，但它对于国内用户的访问速度可能更加友好。
+[Sonolus官网](https://sonolus.com) | [反代官网](https://sonolus.reikohaku.fun)
+
+如果需要寻求安装方面的帮助，请移步至[快速上手Sonolus](/guide/quick-start)。
+
 ## 近期推荐
 
 Mixdori可以指定若干官谱，将它们连接在一起游玩，就像D4DJ的歌曲串烧一样。
