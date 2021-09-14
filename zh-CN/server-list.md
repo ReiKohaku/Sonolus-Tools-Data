@@ -16,7 +16,7 @@
 title: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku","ja-JP":"プロジェクトセカイ-カラフルステージ！feat. 初音ミク"}
 caption: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来官谱","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku official charts","ja-JP":"プロセカの公式譜面"}
 icon: img:assets/server-list/pjsekai.png
-links: [{"name":{"en-US":"Herokuapp","zh-CN":"Herokuapp原生线路"},"link":"https://colorfulstage.herokuapp.com/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://sonolus.reikohaku.fun/pjs","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"日本东京加速线路","en-US":"Japan Tokyo Proxy Line","ja-JP":"日本東京の加速路線"},"link":"https://proxy-assets.sonolus.cn/pjs","icon":"img:img/flags/jp.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/pjsekai","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://sonolus.reikohaku.fun/servers/pjsekai","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"日本东京加速线路","en-US":"Japan Tokyo Proxy Line","ja-JP":"日本東京の加速路線"},"link":"https://servers.sonolus.cn/pjsekai","icon":"img:img/flags/jp.svg"}]
 :::
 
 :::server-card
