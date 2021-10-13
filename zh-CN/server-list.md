@@ -20,6 +20,13 @@ links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"
 :::
 
 :::server-card
+title: {"zh-CN":"Sweet Potato","en-US":"Sweet Potato","ja-JP":"Sweet Potato"}
+caption: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来自制谱，官网：https://potato.purplepalette.net/","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku fan-made charts, official site: https://potato.purplepalette.net/","ja-JP":"プロセカの創作譜面、公式：https://potato.purplepalette.net/"}
+icon: img:assets/server-list/pjsekai.png
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.purplepalette.net","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://sonolus.reikohaku.fun/servers/sweet-potato","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"日本东京加速线路","en-US":"Japan Tokyo Proxy Line","ja-JP":"日本東京の加速路線"},"link":"https://proxy-assets.sonolus.cn/sweet-potato","icon":"img:img/flags/jp.svg"}]
+:::
+
+:::server-card
 title: {"zh-CN":"BanG Dream! 少女乐团派对","en-US":"BanG Dream! Girls Band Party","ja-JP":"ガルパ"}
 caption: {"zh-CN":"BanG Dream! 少女乐团派对官谱","en-US":"BanG Dream! Girls Band Party official charts","ja-JP":"ガルパの公式譜面"}
 icon: img:assets/server-list/bangdream.png
