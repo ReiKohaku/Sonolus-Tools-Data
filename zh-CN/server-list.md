@@ -12,6 +12,15 @@
 
 *提示：由于**日本东京**线路使用人数较多，月末可能会由于流量耗尽，出现无法使用的情况。出现这种情况时，请您更换线路使用。*
 
+
+
+:::server-card
+title: {"zh-CN":"十五拼图","en-US":"Fifteen Puzzle","ja-JP":"フィフティーンパズル"}
+caption: {"zh-CN":"十五拼图小游戏","en-US":"A Fifteen Puzzle Game","ja-JP":"フィフティーンパズルゲーム"}
+icon: img:assets/server-list/fifteen.png
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/fifteen","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://sonolus.reikohaku.fun/servers/fifteen","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"日本东京加速线路","en-US":"Japan Tokyo Proxy Line","ja-JP":"日本東京の加速路線"},"link":"https://servers.sonolus.cn/fifteen","icon":"img:img/flags/jp.svg"}]
+:::
+
 :::server-card
 title: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku","ja-JP":"プロジェクトセカイ-カラフルステージ！feat. 初音ミク"}
 caption: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来官谱","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku official charts","ja-JP":"プロセカの公式譜面"}
