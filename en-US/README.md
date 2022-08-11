@@ -14,15 +14,13 @@ If you need help with installation, see [Quick Start](/guide/quick-start).
 
 ## Recommended
 
-Mixdori can connect some songs to play, just like D4DJ.
-
-Try what kind of chart you can get!
+Let's try Project SEKAI custom charts!
 
 :::server-card
-title: {"zh-CN":"Mixdori","en-US":"Mixdori","ja-JP":"ミクスドリ"}
-caption: {"zh-CN":"BanG Dream官谱串烧","en-US":"Connecting BanG Dream! official charts"}
-icon: img:assets/server-list/bangdream.png
-links: [{"name":{"zh-CN":"Herokuapp原生线路","en-US":"Herokuapp"},"link":"https://mixdori-test.herokuapp.com/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://sonolus.reikohaku.fun/mixdori","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"日本东京加速线路","en-US":"Japan Tokyo Proxy Line","ja-JP":"日本東京の加速路線"},"link":"https://proxy-assets.sonolus.cn/mixdori","icon":"img:img/flags/jp.svg"}]
+title: {"zh-CN":"Sweet Potato","en-US":"Sweet Potato","ja-JP":"Sweet Potato"}
+caption: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来自制谱，官网：https://potato.purplepalette.net/","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku fan-made charts, official site: https://potato.purplepalette.net/","ja-JP":"プロセカの創作譜面、公式：https://potato.purplepalette.net/"}
+icon: img:assets/server-list/pjsekai.png
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers-next.purplepalette.net","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/sweet-potato-next","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://proxy-assets.sonolus.cn/sweet-potato-next","icon":"img:img/flags/us.svg"}]
 :::
 
 ## Join Us
