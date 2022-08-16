@@ -1,0 +1,145 @@
+{
+    "files": [
+        {
+            "name": "README",
+            "title": {
+                "zh-CN": "首页",
+                "en-US": "Home",
+                "ja-JP": "トップページ"
+            }
+        },
+        {
+            "name": "server-list",
+            "title": {
+                "zh-CN": "服务器列表",
+                "en-US": "Server List",
+                "ja-JP": "サーバ一覧"
+            }
+        }
+    ],
+    "dir": {
+        "guide": {
+            "title": {
+                "zh-CN": "使用指南",
+                "en-US": "Guide",
+                "ja-JP": "使用方法ガイド"
+            },
+            "files": [
+                {
+                    "name": "quick-start",
+                    "title": {
+                        "zh-CN": "快速上手Sonolus",
+                        "en-US": "Quick Start",
+                        "ja-JP": "クイックスタート"
+                    }
+                },
+                {
+                    "name": "use-favorite",
+                    "title": {
+                        "zh-CN": "使用收藏功能"
+                    }
+                }
+            ]
+        },
+        "help": {
+            "title": {
+                "zh-CN": "疑难解答"
+            },
+            "files": [
+                {
+                    "name": "q-and-a",
+                    "title": {
+                        "zh-CN": "Q & A"
+                    }
+                },
+                {
+                    "name": "ios-self-sign",
+                    "title": {
+                        "zh-CN": "iOS自签教程"
+                    }
+                },
+                {
+                    "name": "offset",
+                    "title": {
+                        "zh-CN": "延迟调节指南"
+                    }
+                }
+            ]
+        },
+        "develop": {
+            "title": {
+                "zh-CN": "基于Sonolus开发",
+                "en-US": "Develop",
+                "ja-JP": "Sonolusの開発"
+            },
+            "files": [
+                {
+                    "name": "README",
+                    "title": {
+                        "zh-CN": "概述"
+                    }
+                },
+                {
+                    "name": "for-help",
+                    "title": {
+                        "zh-CN": "加入我们/寻求帮助"
+                    }
+                }
+            ]
+        },
+        "donate": {
+            "title": {
+                "zh-CN": "捐赠",
+                "en-US": "Donate",
+                "ja-JP": "寄付"
+            },
+            "files": [
+                {
+                    "name": "README",
+                    "title": {
+                        "zh-CN": "为Sonolus工具站捐赠"
+                    }
+                },
+                {
+                    "name": "donate-2021-07",
+                    "title": {
+                        "zh-CN": "2021年7月 捐赠与支出公示"
+                    }
+                },
+                {
+                    "name": "donate-2021-08",
+                    "title": {
+                        "zh-CN": "2021年8月 捐赠与支出公示"
+                    }
+                },
+                {
+                    "name": "donate-2021-09",
+                    "title": {
+                        "zh-CN": "2021年9月 捐赠与支出公示"
+                    }
+                },
+                {
+                    "name": "donate-2021-10",
+                    "title": {
+                        "zh-CN": "2021年10月 捐赠与支出公示"
+                    }
+                }
+            ]
+        },
+        "monthly-report": {
+            "title": {
+                "zh-CN": "Sonolus工具站月度报告",
+                "en-US": "Sonolus Tool Site Monthly Report",
+                "ja-JP": "マンスリーレポート"
+            },
+            "files": [
+                {
+                    "name": "2021-07",
+                    "title": {
+                        "zh-CN": "2021年7月 月度报告"
+                    }
+                }
+            ]
+        }
+    }
+}
