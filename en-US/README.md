@@ -18,7 +18,12 @@ Sincerely recommend the enhanced version of the fan-made charts server of Projec
 
 More sweet than Sweet Potato.
 
-:::server-card title: {"zh-CN":"Fried Potato","en-US":"Fried Potato","ja-JP":"Fried Potato"} caption: {"zh-CN":"Sweet Potato的增强代理服务器","en-US":"Enhanced proxy server for Sweet Potato","ja-JP":"機能を強化したSweet Potatoのプロキシサーバ"} icon: img:assets/server-list/pjsekai.png links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://fp.sevenc7c.com/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/fried-potato","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://proxy-assets.sonolus.cn/fried-potato","icon":"img:img/flags/us.svg"}] :::
+:::server-card
+title: {"zh-CN":"Fried Potato","en-US":"Fried Potato","ja-JP":"Fried Potato"}
+caption: {"zh-CN":"Sweet Potato的增强代理服务器","en-US":"Enhanced proxy server for Sweet Potato","ja-JP":"機能を強化したSweet Potatoのプロキシサーバ"}
+icon: img:assets/server-list/pjsekai.png
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://fp.sevenc7c.com/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/fried-potato","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://proxy-assets.sonolus.cn/fried-potato","icon":"img:img/flags/us.svg"}]
+:::
 
 ## Join Us
 
