@@ -14,14 +14,11 @@ If you need help with installation, see [Quick Start](/guide/quick-start).
 
 ## Recommended
 
-Let's try Project SEKAI custom charts!
+Sincerely recommend the enhanced version of the fan-made charts server of Project Sekai, Fried Potato.
 
-:::server-card
-title: {"zh-CN":"Sweet Potato","en-US":"Sweet Potato","ja-JP":"Sweet Potato"}
-caption: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来自制谱，官网：https://potato.purplepalette.net/","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku fan-made charts, official site: https://potato.purplepalette.net/","ja-JP":"プロセカの創作譜面、公式：https://potato.purplepalette.net/"}
-icon: img:assets/server-list/pjsekai.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers-next.purplepalette.net","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/sweet-potato-next","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://proxy-assets.sonolus.cn/sweet-potato-next","icon":"img:img/flags/us.svg"}]
-:::
+More sweet than Sweet Potato.
+
+:::server-card title: {"zh-CN":"Fried Potato","en-US":"Fried Potato","ja-JP":"Fried Potato"} caption: {"zh-CN":"Sweet Potato的增强代理服务器","en-US":"Enhanced proxy server for Sweet Potato","ja-JP":"機能を強化したSweet Potatoのプロキシサーバ"} icon: img:assets/server-list/pjsekai.png links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://fp.sevenc7c.com/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/fried-potato","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://proxy-assets.sonolus.cn/fried-potato","icon":"img:img/flags/us.svg"}] :::
 
 ## Join Us
 
@@ -32,5 +29,5 @@ links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"
 * Group 1: 1126890062
 * Group 2: 885950721
 * Group 3: 806148019
-* Group 4: 814926106s
-
+* Group 4: 814926106
+* Group 5: 926687488
