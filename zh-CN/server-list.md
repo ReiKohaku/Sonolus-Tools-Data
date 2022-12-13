@@ -2,6 +2,16 @@
 
 本页面收集了部分可用的服务器列表，点击对应线路后方的**复制**按钮即可复制到剪切板。
 
+*<font size="3em" color="red">如果原生线路没有问题，请优先使用原生线路！！！</font>*
+
+<details>
+<summary>分流线路是做什么用的？</summary>
+
+由于原生线路使用了Cloudflare，其对于海外用户的加速效果非常优秀，而在国内的部分地区会出现连接缓慢或连接失败的情况。为了帮助这部分用户方便地使用本软件，特开设分流线路。
+
+***分流线路并不会比原生线路更快***，甚至对于绝大部分用户来说很多时候会***更慢***。因此，请优先尝试原生线路吧。
+</details>
+
 **如果发现某条线路不可用，请尝试更换线路使用。**
 
 ## 我应该怎么使用它们？
@@ -19,103 +29,103 @@
 title: {"zh-CN":"十五拼图","en-US":"Fifteen Puzzle","ja-JP":"フィフティーンパズル"}
 caption: {"zh-CN":"十五拼图小游戏","en-US":"A Fifteen Puzzle Game","ja-JP":"フィフティーンパズルゲーム"}
 icon: img:assets/server-list/fifteen.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/fifteen","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/fifteen","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://servers.sonolus.cn/fifteen","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/fifteen","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://servers.sonolus.reikohaku.fun/fifteen","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/fifteen","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku","ja-JP":"プロジェクトセカイ-カラフルステージ！feat. 初音ミク"}
 caption: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来官谱","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku official charts","ja-JP":"プロセカの公式譜面"}
 icon: img:assets/server-list/pjsekai.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/pjsekai","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/pjsekai","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://servers.sonolus.cn/pjsekai","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/pjsekai","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://servers.sonolus.reikohaku.fun/pjsekai","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/pjsekai","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来（备用）","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku (backup)","ja-JP":"プロジェクトセカイ-カラフルステージ！feat. 初音ミク（バックアップ）"}
 caption: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来官谱","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku official charts","ja-JP":"プロセカの公式譜面"}
 icon: img:assets/server-list/pjsekai.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/pjsekai-backup","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/pjsekai-backup","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://servers.sonolus.cn/pjsekai-backup","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/pjsekai-backup","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://servers.sonolus.reikohaku.fun/pjsekai-backup","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/pjsekai-backup","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: {"zh-CN":"Fried Potato","en-US":"Fried Potato","ja-JP":"Fried Potato"}
 caption: {"zh-CN":"Sweet Potato的增强代理服务器","en-US":"Enhanced proxy server for Sweet Potato","ja-JP":"機能を強化したSweet Potatoのプロキシサーバ"}
 icon: img:assets/server-list/pjsekai.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://fp.sevenc7c.com/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/fried-potato","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://proxy-assets.sonolus.cn/fried-potato","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://fp.sevenc7c.com/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://servers.sonolus.reikohaku.fun/fried-potato","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://proxy-assets.sonolus.cn/fried-potato","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: {"zh-CN":"Sweet Potato","en-US":"Sweet Potato","ja-JP":"Sweet Potato"}
 caption: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来自制谱，官网：https://potato.purplepalette.net/","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku fan-made charts, official site: https://potato.purplepalette.net/","ja-JP":"プロセカの創作譜面、公式：https://potato.purplepalette.net/"}
 icon: img:assets/server-list/pjsekai.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.purplepalette.net","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://proxy-assets.sonolus.reikohaku.fun/sweet-potato","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://proxy-assets.sonolus.cn/sweet-potato","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.purplepalette.net","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://proxy-assets.sonolus.reikohaku.fun/sweet-potato","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://proxy-assets.sonolus.cn/sweet-potato","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: {"zh-CN":"BanG Dream! 少女乐团派对","en-US":"BanG Dream! Girls Band Party","ja-JP":"ガルパ"}
 caption: {"zh-CN":"BanG Dream! 少女乐团派对官谱","en-US":"BanG Dream! Girls Band Party official charts","ja-JP":"ガルパの公式譜面"}
 icon: img:assets/server-list/bangdream.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/bandori","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/bandori","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://servers.sonolus.cn/bandori","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/bandori","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://servers.sonolus.reikohaku.fun/bandori","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/bandori","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: {"zh-CN":"Mixdori","en-US":"Mixdori","ja-JP":"ミクスドリ"}
 caption: {"zh-CN":"BanG Dream! 官谱串烧","en-US":"Connecting BanG Dream! official charts"}
 icon: img:assets/server-list/bangdream.png
-links: [{"name":{"en-US":"Herokuapp","zh-CN":"Herokuapp原生线路"},"link":"https://mixdori-test.herokuapp.com/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://sonolus.reikohaku.fun/mixdori","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://proxy-assets.sonolus.cn/mixdori","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Herokuapp","zh-CN":"Herokuapp原生线路"},"link":"https://mixdori-test.herokuapp.com/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://sonolus.reikohaku.fun/mixdori","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://proxy-assets.sonolus.cn/mixdori","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: {"zh-CN":"Bestdori! 自制谱社区","en-US":"Bestdori! custom chart community","ja-JP":"Bestdori! 創作譜面"}
 caption: {"zh-CN":"BanG Dream自制谱，官网：<a href="https://bestdori.com">https://bestdori.com</a>","en-US":"Custom BanG Dream! charts, official: <a href="https://bestdori.com">https://bestdori.com</a>","ja-JP":"ガルパの創作譜面、公式：<a href="https://bestdori.com">https://bestdori.com</a>"}
 icon: img:assets/server-list/bestdori.ico
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/bestdori","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/bestdori","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"[可按谱师搜索]美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line(search by author available)","ja-JP":"米ロサンゼルスの加速路線（作者で検索できます）"},"link":"http://sonolus.ayachan.fun/bestdori/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://servers.sonolus.cn/bestdori","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/bestdori","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://servers.sonolus.reikohaku.fun/bestdori","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"[可按谱师搜索]美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line(search by author available)","ja-JP":"米ロサンゼルスバイパス線（作者で検索できます）"},"link":"http://sonolus.ayachan.fun/bestdori/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/bestdori","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: {"ja-JP":"スクフェス","zh-CN":"Lovelive! 学园偶像祭","en-US":"Bestdori! custom chart community"}
 caption: {"zh-CN":"LLSIF官谱","en-US":"LLSIF official charts","ja-JP":"スクフェスの公式譜面"}
 icon: img:assets/server-list/llsif.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/llsif","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/llsif","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://servers.sonolus.cn/llsif","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/llsif","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://servers.sonolus.reikohaku.fun/llsif","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/llsif","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: LLPractice
 caption: {"zh-CN":"LLSIF自制谱（部分）","en-US":"Part of custom LLSIF charts","ja-JP":"スクフェスの創作譜面（一部のみ）"}
 icon: img:assets/server-list/sif.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/sif","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/sif","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://servers.sonolus.cn/sif","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/sif","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://servers.sonolus.reikohaku.fun/sif","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/sif","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: {"ja-JP":"22/7 音楽の時間","zh-CN":"22/7 音乐的时间"}
 caption: {"en-US":"22/7 音楽の時間 official charts","ja-JP":"22/7 音楽の時間の公式譜面","zh-CN":"22/7 音乐的时间官谱"}
 icon: img:assets/server-list/nanaon.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/nanaon","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/nanaon","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://servers.sonolus.cn/nanaon","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/nanaon","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://servers.sonolus.reikohaku.fun/nanaon","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/nanaon","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: {"ja-JP":"太鼓の達人","zh-CN":"太鼓达人","en-US":"Taiko no Tatsujin"}
 caption: {"en-US":"Taiko no Tatsujin official charts","ja-JP":"太鼓の達人の公式譜面","zh-CN":"太鼓达人官谱"}
 icon: img:assets/server-list/taiko.jpg
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/taiko","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/taiko","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://servers.sonolus.cn/taiko","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/taiko","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://servers.sonolus.reikohaku.fun/taiko","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/taiko","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: osu!taiko
 caption: {"en-US":"osu!taiko custom maps","ja-JP":"osu!taikoの創作譜面","zh-CN":"osu!taiko自制谱"}
 icon: img:assets/server-list/osu.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/taiko-osu","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/taiko-osu","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://servers.sonolus.cn/taiko-osu","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/taiko-osu","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://servers.sonolus.reikohaku.fun/taiko-osu","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/taiko-osu","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: {"en-US":"VOEZ","zh-CN":"VOEZ 兰空"}
 caption: {"en-US":"VOEZ official charts","ja-JP":"VOEZの公式譜面","zh-CN":"VOEZ 兰空官谱"}
 icon: img:assets/server-list/voez.jpg
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/voez","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/voez","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://servers.sonolus.cn/voez","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/voez","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://servers.sonolus.reikohaku.fun/voez","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/voez","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
 title: Deemo
 caption: {"en-US":"Deemo official charts","ja-JP":"Deemoの公式譜面","zh-CN":"Deemo官谱"}
 icon: img:assets/server-list/deemo.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/deemo","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流加速线路","en-US":"China Proxy Line","ja-JP":"中国の加速路線"},"link":"https://servers.sonolus.reikohaku.fun/deemo","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスの加速路線"},"link":"https://servers.sonolus.cn/deemo","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/deemo","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路","en-US":"China Proxy Line","ja-JP":"中国バイパス線"},"link":"https://servers.sonolus.reikohaku.fun/deemo","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/deemo","icon":"img:img/flags/us.svg"}]
 :::
