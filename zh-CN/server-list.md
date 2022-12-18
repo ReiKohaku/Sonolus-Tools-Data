@@ -24,6 +24,12 @@
 
 - 国内加速线路由于CDN流量较贵，不定期开放加速服务，请有条件的用户尽可能使用**Cloudflare原生线路**。
 
+**快速跳转**
+[特别服务器](#特别服务器)<br />
+[小游戏](#小游戏)<br />
+[官方谱面服务器](#官方谱面服务器)<br />
+[自制谱面服务器](#自制谱面服务器)<br />
+
 ### 特别服务器
 
 :::server-card
@@ -51,15 +57,12 @@ icon: img:assets/server-list/pjsekai.png
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/pjsekai","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路（请避免使用）","en-US":"China Proxy Line (AVOID use this!!!)","ja-JP":"中国バイパス線（できるだけ使用しない）"},"link":"https://servers.sonolus.reikohaku.fun/pjsekai","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/pjsekai","icon":"img:img/flags/us.svg"}]
 :::
 
-<details>
-<summary>世界计划 多彩舞台！feat.初音未来 备用服务器</summary>
 :::server-card
 title: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来（备用）","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku (backup)","ja-JP":"プロジェクトセカイ-カラフルステージ！feat. 初音ミク（バックアップ）"}
 caption: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来官谱","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku official charts","ja-JP":"プロセカの公式譜面"}
 icon: img:assets/server-list/pjsekai.png
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/pjsekai-backup","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路（请避免使用）","en-US":"China Proxy Line (AVOID use this!!!)","ja-JP":"中国バイパス線（できるだけ使用しない）"},"link":"https://servers.sonolus.reikohaku.fun/pjsekai-backup","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/pjsekai-backup","icon":"img:img/flags/us.svg"}]
 :::
-</details>
 
 :::server-card
 title: {"zh-CN":"BanG Dream! 少女乐团派对","en-US":"BanG Dream! Girls Band Party","ja-JP":"ガルパ"}
@@ -110,6 +113,7 @@ title: {"zh-CN":"Fried Potato","en-US":"Fried Potato","ja-JP":"Fried Potato"}
 caption: {"zh-CN":"Sweet Potato的增强代理服务器","en-US":"Enhanced proxy server for Sweet Potato","ja-JP":"機能を強化したSweet Potatoのプロキシサーバ"}
 icon: img:assets/server-list/pjsekai.png
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://fp.sevenc7c.com/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路（请避免使用）","en-US":"China Proxy Line (AVOID use this!!!)","ja-JP":"中国バイパス線（できるだけ使用しない）"},"link":"https://servers.sonolus.reikohaku.fun/fried-potato","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://proxy-assets.sonolus.cn/fried-potato","icon":"img:img/flags/us.svg"}]
+third-party: true
 :::
 
 :::server-card
@@ -117,6 +121,7 @@ title: {"zh-CN":"Sweet Potato","en-US":"Sweet Potato","ja-JP":"Sweet Potato"}
 caption: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来自制谱，官网：https://potato.purplepalette.net/","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku fan-made charts, official site: https://potato.purplepalette.net/","ja-JP":"プロセカの創作譜面、公式：https://potato.purplepalette.net/"}
 icon: img:assets/server-list/pjsekai.png
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.purplepalette.net","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路（请避免使用）","en-US":"China Proxy Line (AVOID use this!!!)","ja-JP":"中国バイパス線（できるだけ使用しない）"},"link":"https://proxy-assets.sonolus.reikohaku.fun/sweet-potato","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://proxy-assets.sonolus.cn/sweet-potato","icon":"img:img/flags/us.svg"}]
+third-party: true
 :::
 
 :::server-card
@@ -131,6 +136,7 @@ title: {"zh-CN":"Mixdori（维护不及时）","en-US":"Mixdori(Not actively mai
 caption: {"zh-CN":"BanG Dream! 官谱串烧","en-US":"Concat BanG Dream! official charts"}
 icon: img:assets/server-list/bangdream.png
 links: [{"name":{"en-US":"Herokuapp","zh-CN":"Herokuapp原生线路"},"link":"https://mixdori-test.herokuapp.com/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路（请避免使用）","en-US":"China Proxy Line (AVOID use this!!!)","ja-JP":"中国バイパス線（できるだけ使用しない）"},"link":"https://sonolus.reikohaku.fun/mixdori","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://proxy-assets.sonolus.cn/mixdori","icon":"img:img/flags/us.svg"}]
+third-party: true
 :::
 
 :::server-card
