@@ -108,8 +108,17 @@ links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"
 
 ### 自制谱面服务器
 
+
 :::server-card
-title: {"zh-CN":"Fried Potato","en-US":"Fried Potato","ja-JP":"Fried Potato"}
+title: {"zh-CN":"Chart Cyanvas 水板","en-US":"Chart Cyanvas","ja-JP":"Chart Cyanvas 水板"}
+{"zh-CN":"世界计划 多彩舞台！feat. 初音未来自制谱，官网：https://cc.sevenc7c.com/","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku fan-made charts, official site: https://cc.sevenc7c.com/","ja-JP":"プロセカの創作譜面、公式：https://cc.sevenc7c.com/"}
+icon: img:assets/server-list/pjsekai.png
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://cc.sevenc7c.com","icon":"img:img/flags/us.svg"}]
+third-party: true
+:::
+
+:::server-card
+title: {"zh-CN":"Fried Potato（停止更新，请勿使用）","en-US":"Fried Potato (lifecycle end) ","ja-JP":"Fried Potato（ライフサイクル終了）"}
 caption: {"zh-CN":"Sweet Potato的增强代理服务器","en-US":"Enhanced proxy server for Sweet Potato","ja-JP":"機能を強化したSweet Potatoのプロキシサーバ"}
 icon: img:assets/server-list/pjsekai.png
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://fp.sevenc7c.com/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路（请避免使用）","en-US":"China Proxy Line (AVOID use this!!!)","ja-JP":"中国バイパス線（できるだけ使用しない）"},"link":"https://servers.sonolus.reikohaku.fun/fried-potato","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://proxy-assets.sonolus.cn/fried-potato","icon":"img:img/flags/us.svg"}]
@@ -117,7 +126,7 @@ third-party: true
 :::
 
 :::server-card
-title: {"zh-CN":"Sweet Potato","en-US":"Sweet Potato","ja-JP":"Sweet Potato"}
+title: {"zh-CN":"Sweet Potato（停止更新，请勿使用）","en-US":"Sweet Potato (lifecycle end)","ja-JP":"Sweet Potato（ライフサイクル終了）"}
 caption: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来自制谱，官网：https://potato.purplepalette.net/","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku fan-made charts, official site: https://potato.purplepalette.net/","ja-JP":"プロセカの創作譜面、公式：https://potato.purplepalette.net/"}
 icon: img:assets/server-list/pjsekai.png
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.purplepalette.net","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"国内分流线路（请避免使用）","en-US":"China Proxy Line (AVOID use this!!!)","ja-JP":"中国バイパス線（できるだけ使用しない）"},"link":"https://proxy-assets.sonolus.reikohaku.fun/sweet-potato","icon":"img:img/flags/cn.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://proxy-assets.sonolus.cn/sweet-potato","icon":"img:img/flags/us.svg"}]
