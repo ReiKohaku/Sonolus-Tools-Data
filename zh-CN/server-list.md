@@ -129,7 +129,7 @@ third-party: true
 title: {"zh-CN":"Bestdori! 自制谱社区","en-US":"Bestdori! custom chart community","ja-JP":"Bestdori! 創作譜面"}
 caption: {"zh-CN":"BanG Dream自制谱，官网：<a href=\"https://bestdori.com\">https://bestdori.com</a>","en-US":"Custom BanG Dream! charts, official: <a href=\"https://bestdori.com\">https://bestdori.com</a>","ja-JP":"ガルパの創作譜面、公式：<a href=\"https://bestdori.com\">https://bestdori.com</a>"}
 icon: img:assets/server-list/bestdori.ico
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/bestdori","icon":"img:img/flags/us.svg"},"name":{"zh-CN":"[可按谱师搜索]美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line(search by author available)","ja-JP":"米ロサンゼルスバイパス線（作者で検索できます）"},"link":"http://sonolus.ayachan.fun/bestdori/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/bestdori","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/bestdori","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"[可按谱师搜索]美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line(search by author available)","ja-JP":"米ロサンゼルスバイパス線（作者で検索できます）"},"link":"http://sonolus.ayachan.fun/bestdori/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/bestdori","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
