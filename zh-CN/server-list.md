@@ -48,6 +48,13 @@ icon: img:assets/server-list/fifteen.png
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/fifteen","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/fifteen","icon":"img:img/flags/us.svg"}]
 :::
 
+:::server-card
+title: {"zh-CN":"Wordle","en-US":"Wordle","ja-JP":"Wordle"}
+caption: {"en-US":"Wordle game", "zh-CN":"猜词游戏"}
+icon: img:favicon.ico
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/wordle","icon":"img:img/flags/us.svg"}]
+:::
+
 ### 官方谱面服务器
 
 :::server-card
@@ -106,6 +113,22 @@ icon: img:assets/server-list/deemo.png
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/deemo","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/deemo","icon":"img:img/flags/us.svg"}]
 :::
 
+:::server-card
+title: {"zh-CN":"Honeyworks Premium Live","en-US":"Honeyworks Premium Live","ja-JP":"ハニプレ"}
+caption: {"en-US":"Honeyworks Premium Live official charts", "zh-CN":"Honeyworks Premium Live 官谱", "ja-JP":"ハニプレの公式譜面"}
+icon: img:assets/server-list/honeyworks.png
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://hwpl.server.littleyang.me/","icon":"img:img/flags/us.svg"}]
+third-party: true
+:::
+
+:::server-card
+title: {"zh-CN":"World Dai Star 梦想的群星","en-US":"World Dai Star","ja-JP":"ワールドダイスター 夢のステラリウム"}
+caption: {"en-US":"World Dai Star official charts", "zh-CN":"World Dai Star 梦想的群星 官谱", "ja-JP":"ユメステの公式譜面"}
+icon: img:assets/server-list/world-dai-star.png
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://wds.server.littleyang.me/","icon":"img:img/flags/us.svg"}]
+thrid-party: true
+:::
+
 ### 自制谱面服务器
 
 
@@ -133,14 +156,6 @@ links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"
 :::
 
 :::server-card
-title: {"zh-CN":"Mixdori（维护不及时）","en-US":"Mixdori(Not actively maintained)","ja-JP":"ミクスドリ（積極的に維持されていない）"}
-caption: {"zh-CN":"BanG Dream! 官谱串烧","en-US":"Concat BanG Dream! official charts"}
-icon: img:assets/server-list/bangdream.png
-links: [{"name":{"en-US":"Herokuapp","zh-CN":"Herokuapp原生线路"},"link":"https://mixdori-test.herokuapp.com/","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://proxy-assets.sonolus.cn/mixdori","icon":"img:img/flags/us.svg"}]
-third-party: true
-:::
-
-:::server-card
 title: LLPractice
 caption: {"zh-CN":"LLSIF自制谱（部分）","en-US":"Part of custom LLSIF charts","ja-JP":"スクフェスの創作譜面（一部のみ）"}
 icon: img:assets/server-list/sif.png
@@ -152,4 +167,11 @@ title: osu!taiko
 caption: {"en-US":"osu!taiko custom maps(playable, but not all songs work)","ja-JP":"osu!taikoの創作譜面","zh-CN":"osu!taiko自制谱（可用但不全面）"}
 icon: img:assets/server-list/osu.png
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/taiko-osu","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/taiko-osu","icon":"img:img/flags/us.svg"}]
+:::
+
+:::server-card
+title: osu!mania
+caption: {"en-US":"osu!mania custom maps","ja-JP":"osu!maniaの創作譜面","zh-CN":"osu!mania自制谱"}
+icon: img:assets/server-list/osu.png
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/mania-osu","icon":"img:img/flags/us.svg"}]
 :::
