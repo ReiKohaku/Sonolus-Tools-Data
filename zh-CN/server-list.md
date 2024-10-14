@@ -27,7 +27,11 @@
 - 国内加速线路由于CDN流量较贵，不定期开放加速服务，请有条件的用户尽可能使用**Cloudflare原生线路**。
 
 **快速跳转**<br />
+[特别服务器](/server-list#特别服务器)<br />
+[小游戏](/server-list#小游戏)<br />
 [公共多人游戏服务器](/server-list#公共多人游戏服务器)<br />
+[特别服务器](/server-list#特别服务器)<br />
+[小游戏](/server-list#小游戏)<br />
 [官方谱面服务器](/server-list#官方谱面服务器)<br />
 [自制谱面服务器](/server-list#自制谱面服务器)<br />
 
@@ -38,6 +42,29 @@ title: {"zh-CN":"公共多人游戏服务器","en-US":"Public Multiplayer Server
 caption: {"en-US":"A public multiplayer server", "zh-CN":"公共多人游戏服务器，可连接到此服务器体验多人游戏"}
 icon: img:favicon.ico
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/multiplayer","icon":"img:img/flags/us.svg"}]
+:::
+
+### 特别服务器
+:::server-card
+title: {"zh-CN":"性能测试","en-US":"Performance Test","ja-JP":"パフォーマンステスト"}
+caption: {"en-US":"Sonolus player favorite bread test!", "zh-CN":"Sonolus玩家最爱的面包测试！"}
+icon: img:favicon.ico
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/performance-test","icon":"img:img/flags/us.svg"}]
+:::
+
+### 小游戏
+:::server-card
+title: {"zh-CN":"十五拼图","en-US":"Fifteen Puzzle","ja-JP":"フィフティーンパズル"}
+caption: {"zh-CN":"十五拼图小游戏","en-US":"A Fifteen Puzzle Game","ja-JP":"フィフティーンパズルゲーム"}
+icon: img:assets/server-list/fifteen.png
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/fifteen","icon":"img:img/flags/us.svg"}]
+:::
+
+:::server-card
+title: {"zh-CN":"猜词游戏","en-US":"Wordle","ja-JP":"Wordle"}
+caption: {"zh-CN":"猜词小游戏","en-US":"A Wordle Game","ja-JP":"Wordle"}
+icon: img:assets/server-list/wordle.png
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/wordle","icon":"img:img/flags/us.svg"}]
 :::
 
 ### 官方谱面服务器
