@@ -15,14 +15,12 @@
 
 ## 近期推荐
 
-经典的猜词游戏，看看是谁的脑筋转得更快吧。
+在 Sonolus 中体验独家的新时代 3D 旋转下落式节奏游戏吧！
 
-:::server-card
-title:::server-card
-title: {"zh-CN":"Wordle","en-US":"Wordle","ja-JP":"Wordle"}
-caption: {"en-US":"Wordle game", "zh-CN":"猜词游戏"}
+title: {"zh-CN":"Horizon","en-US":"Horizon"}
+caption: {"en-US":"New 3D rotating rhythm game", "zh-CN":"创新3D旋转下落式节奏游戏"}
 icon: img:favicon.ico
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/wordle","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://coconut.sonolus.com/horizon","icon":"img:img/flags/us.svg"}]
 :::
 
 ## 加入我们
