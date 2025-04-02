@@ -27,6 +27,7 @@
 - 国内加速线路由于CDN流量较贵，不定期开放加速服务，请有条件的用户尽可能使用**Cloudflare原生线路**。
 
 **快速跳转**<br />
+[Coconut 托管服务器](/server-list#Coconut%20托管服务器)<br />
 [特别服务器](/server-list#特别服务器)<br />
 [小游戏](/server-list#小游戏)<br />
 [公共多人游戏服务器](/server-list#公共多人游戏服务器)<br />
