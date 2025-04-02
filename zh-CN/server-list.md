@@ -35,6 +35,14 @@
 [官方谱面服务器](/server-list#官方谱面服务器)<br />
 [自制谱面服务器](/server-list#自制谱面服务器)<br />
 
+### Coconut 托管服务器
+
+title: {"zh-CN":"Horizon","en-US":"Horizon"}
+caption: {"en-US":"New 3D rotating rhythm game", "zh-CN":"创新3D旋转下落式节奏游戏"}
+icon: img:favicon.ico
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://coconut.sonolus.com/horizon","icon":"img:img/flags/us.svg"}]
+:::
+
 ### 公共多人游戏服务器
 
 :::server-card
