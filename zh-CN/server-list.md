@@ -38,6 +38,7 @@
 
 ### Coconut 托管服务器
 
+:::server-card
 title: {"zh-CN":"Horizon","en-US":"Horizon"}
 caption: {"en-US":"New 3D rotating rhythm game", "zh-CN":"创新3D旋转下落式节奏游戏"}
 icon: img:favicon.ico
