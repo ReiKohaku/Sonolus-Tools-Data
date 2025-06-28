@@ -18,7 +18,7 @@ Since the original servers use Cloudflare, it provides excellent acceleration fo
 
 ## How do I use them？
 
-You should look at the **user guide** **[Quick Start Guide for Sonolus](guide/quick-start)**. Some servers may also support opening a web-based setup or instructions directly in your browser.
+You should look at the **[Quick Start Guide for Sonolus](guide/quick-start)**. Some servers may also support opening a web-based setup or instructions directly in your browser.
 
 ## List
 
