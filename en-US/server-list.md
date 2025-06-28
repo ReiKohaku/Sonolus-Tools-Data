@@ -78,7 +78,7 @@ icon: img:assets/server-list/wordle.png
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/wordle","icon":"img:img/flags/us.svg"}]
 :::
 
-### Offical Chart Servers
+### Official Chart Servers
 
 :::server-card
 title: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku","ja-JP":"プロジェクトセカイ-カラフルステージ！feat. 初音ミク"}
