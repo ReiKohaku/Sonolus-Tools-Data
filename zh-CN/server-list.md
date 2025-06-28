@@ -51,7 +51,7 @@ links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"
 title: {"zh-CN":"公共多人游戏服务器","en-US":"Public Multiplayer Server"}
 caption: {"en-US":"A public multiplayer server", "zh-CN":"公共多人游戏服务器，可连接到此服务器体验多人游戏"}
 icon: img:favicon.ico
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/multiplayer","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://multiplayer.sonolus.com","icon":"img:img/flags/us.svg"}]
 :::
 
 ### 特别服务器
