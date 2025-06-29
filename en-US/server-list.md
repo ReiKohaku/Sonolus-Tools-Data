@@ -14,7 +14,7 @@ Since the original servers use Cloudflare, it provides excellent acceleration fo
 ***The backup servers will not be faster than the original servers***，For the vast majority of users, many times the server will be **slower**. Therefore, please try the original server first.
 </details>
 
-**If you find a link that is not unavailable, please change it to the correct link.**
+**If you find a link that is unavailable, please change it to the correct link.**
 
 ## How do I use them？
 
