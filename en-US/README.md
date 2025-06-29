@@ -1,13 +1,13 @@
 # Sonolus Tools
 
 Welcome to the new version of **Sonolus Tools**!
-Tip: This is NOT official site of Sonolus but a fan-made site. What you get from this site is not represent the developer's point of view.
-You can find some info and guide of Sonolus here.
-Please extend left-side menu to view articles.
+Tip: This is NOT the official site of Sonolus but a fan-made site. What you get from this site does not represent the developer's point of view.
+You can find some info and a guide of Sonolus here.
+Please extend the left-side menu to view the articles.
 
 ## Download and update
 
-If you want to download the latest version of Sonolus, please go to official site.
+If you want to download the latest version of Sonolus, please go to the official site.
 [Sonolus Official Site](https://sonolus.com)
 
 If you need help with installation, see [Quick Start](/guide/quick-start).
