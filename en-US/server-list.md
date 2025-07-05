@@ -148,7 +148,7 @@ third-party: true
 title: {"zh-CN":"World Dai Star 梦想的群星","en-US":"World Dai Star","ja-JP":"ワールドダイスター 夢のステラリウム"}
 caption: {"en-US":"World Dai Star official charts", "zh-CN":"World Dai Star 梦想的群星 官谱", "ja-JP":"ユメステの公式譜面"}
 icon: img:assets/server-list/world-dai-star.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://wds.server.littleyang.icu/","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://wds.server.littleyang.com.cn/","icon":"img:img/flags/us.svg"}]
 thrid-party: true
 :::
 
@@ -156,7 +156,7 @@ thrid-party: true
 title: {"zh-CN":"Phigros","en-US":"Phigros","ja-JP":"Phigros"}
 caption: {"en-US":"Phigros official charts", "zh-CN":"Phigros 官谱", "ja-JP":"Phigros の公式譜面"}
 icon: img:assets/server-list/phigros.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://phigros.server.littleyang.icu/","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://phigros.server.littleyang.com.cn/","icon":"img:img/flags/us.svg"}]
 thrid-party: true
 :::
 
@@ -190,7 +190,7 @@ links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"
 title: {"zh-CN":"Stellarity","en-US":"Stellarity","ja-JP":"Stellarity"}
 caption: {"en-US":"World Dai Star custom charts", "zh-CN":"World Dai Star 梦想的群星 自制谱", "ja-JP":"ユメステの創作譜面"}
 icon: img:assets/server-list/stellarity.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://stellarity.littleyang.icu/","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://stellarity.littleyang.com.cn/","icon":"img:img/flags/us.svg"}]
 thrid-party: true
 :::
 
