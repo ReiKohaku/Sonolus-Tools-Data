@@ -1,42 +1,43 @@
-# 服务器列表
+# Server list
 
-本页面收集了部分可用的服务器列表，点击对应线路后方的**复制**按钮即可复制到剪切板。
+This page has a list of some available servers. Press the **copy** button next to the corresponding link to copy it to the clipboard.
 
-**重要：0.8.0 版本绝大部分地址有更新，请注意修改！**
+**Important: Most of the links for version 0.8.0 have been updated. Please pay attention to the modification!**
 
-*<font size="32px" color="red">如果原生线路没有问题，请优先使用原生线路！！！</font>*
+*<font size="32px" color="red">If the original server is working fine, please use it!!!</font>*
 
 <details>
-<summary>分流线路是做什么用的？</summary>
+<summary>What's the purpose of backup servers?</summary>
 
-由于原生线路使用了Cloudflare，其对于海外用户的加速效果非常优秀，而在国内的部分地区会出现连接缓慢或连接失败的情况。为了帮助这部分用户方便地使用本软件，特开设分流线路。
+Since the original servers use Cloudflare, it provides excellent acceleration for users overseas. However, in some regions within China, it may result in slow connections or connection failures. To help these users use the software more easily, backup servers have been created.
 
-***分流线路并不会比原生线路更快***，甚至对于绝大部分用户来说很多时候会***更慢***。因此，请优先尝试原生线路吧。
+***The backup servers will not be faster than the original servers***，For the vast majority of users, many times the server will be **slower**. Therefore, please try the original server first.
 </details>
 
-**如果发现某条线路不可用，请尝试更换线路使用。**
+**If you find a link that is unavailable, please change it to the correct link.**
 
-## 我应该怎么使用它们？
+## How do I use them？
 
-您应该仔细看一看**使用指南**里的**[快速上手Sonolus](guide/quick-start)**。当然，某些服务器也支持直接在浏览器中打开来查看使用说明。
+You should look at the **[Quick Start Guide for Sonolus](guide/quick-start)**. Some servers may also support opening a web-based setup or instructions directly in your browser.
 
-## 列表
+## List
 
-提示：
+Tips：
 
-- 国内加速线路由于CDN流量较贵，不定期开放加速服务，请有条件的用户尽可能使用**Cloudflare原生线路**。
+- Since CDN traffic for domestic acceleration servers is quite expensive, acceleration services are only opened from time to time. If possible, users who are able to, please use the original **Cloudflare** servers.
 
-**快速跳转**<br />
-[Coconut 托管服务器](/server-list#Coconut%20托管服务器)<br />
-[特别服务器](/server-list#特别服务器)<br />
-[小游戏](/server-list#小游戏)<br />
-[公共多人游戏服务器](/server-list#公共多人游戏服务器)<br />
-[特别服务器](/server-list#特别服务器)<br />
-[小游戏](/server-list#小游戏)<br />
-[官方谱面服务器](/server-list#官方谱面服务器)<br />
-[自制谱面服务器](/server-list#自制谱面服务器)<br />
 
-### Coconut 托管服务器
+**Jump to:**<br />
+[Coconut Servers](/server-list#Coconut%20Servers)<br />
+[Special Servers](/server-list#Special%20Servers)<br />
+[Games](/server-list#Games)<br />
+[Multiplayer](/server-list#Multiplayer)<br />
+[Special Servers](/server-list#Special%20Servers)<br />
+[Games](/server-list#Games)<br />
+[Official Chart Servers](/server-list#Official%20Chart%20Servers)<br />
+[Custom Chart Servers](/server-list#Custom%20Chart%20Servers)<br />
+
+### Coconut Servers
 
 :::server-card
 title: {"zh-CN":"Horizon","en-US":"Horizon"}
@@ -45,7 +46,7 @@ icon: img:favicon.ico
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://coconut.sonolus.com/horizon","icon":"img:img/flags/us.svg"}]
 :::
 
-### 公共多人游戏服务器
+### Multiplayer
 
 :::server-card
 title: {"zh-CN":"公共多人游戏服务器","en-US":"Public Multiplayer Server"}
@@ -54,7 +55,7 @@ icon: img:favicon.ico
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://multiplayer.sonolus.com","icon":"img:img/flags/us.svg"}]
 :::
 
-### 特别服务器
+### Special Servers
 :::server-card
 title: {"zh-CN":"性能测试","en-US":"Performance Test","ja-JP":"パフォーマンステスト"}
 caption: {"en-US":"Sonolus player favorite bread test!", "zh-CN":"Sonolus玩家最爱的面包测试！"}
@@ -62,7 +63,7 @@ icon: img:favicon.ico
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/performance-test","icon":"img:img/flags/us.svg"}]
 :::
 
-### 小游戏
+### Games
 :::server-card
 title: {"zh-CN":"十五拼图","en-US":"Fifteen Puzzle","ja-JP":"フィフティーンパズル"}
 caption: {"zh-CN":"十五拼图小游戏","en-US":"A Fifteen Puzzle Game","ja-JP":"フィフティーンパズルゲーム"}
@@ -77,7 +78,7 @@ icon: img:assets/server-list/wordle.png
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/wordle","icon":"img:img/flags/us.svg"}]
 :::
 
-### 官方谱面服务器
+### Official Chart Servers
 
 :::server-card
 title: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku","ja-JP":"プロジェクトセカイ-カラフルステージ！feat. 初音ミク"}
@@ -159,7 +160,7 @@ links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"
 thrid-party: true
 :::
 
-### 自制谱面服务器
+### Custom Chart Servers
 
 
 :::server-card

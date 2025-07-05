@@ -37,6 +37,7 @@
                     "name": "use-favorite",
                     "title": {
                         "zh-CN": "使用收藏功能"
+                        "en-US": "Use the Collections feature"
                     }
                 }
             ]
@@ -44,24 +45,28 @@
         "help": {
             "title": {
                 "zh-CN": "疑难解答"
+                "en-US": "Tutorials"
             },
             "files": [
                 {
                     "name": "q-and-a",
                     "title": {
                         "zh-CN": "Q & A"
+                        "en-US": "Q&A"
                     }
                 },
                 {
                     "name": "ios-self-sign",
                     "title": {
                         "zh-CN": "iOS自签教程"
+                        "en-US": "iOS Self Sign Tutorial"
                     }
                 },
                 {
                     "name": "offset",
                     "title": {
                         "zh-CN": "延迟调节指南"
+                        "en-US": "Offset Adjustment Guide"
                     }
                 }
             ]
@@ -77,12 +82,14 @@
                     "name": "README",
                     "title": {
                         "zh-CN": "概述"
+                        "en-US": "Overview"
                     }
                 },
                 {
                     "name": "for-help",
                     "title": {
                         "zh-CN": "加入我们/寻求帮助"
+                        "en-US": "Join Us/Ask for help"
                     }
                 }
             ]
@@ -106,84 +113,98 @@
                     "name": "donate-2022-08",
                     "title": {
                         "zh-CN": "2022年8月 捐赠与支出公示"
+                        "en-US": "August 2022 Donation and Spending Report"
                     }
                 },
                 {
                     "name": "donate-2022-07",
                     "title": {
                         "zh-CN": "2022年7月 捐赠与支出公示"
+                        "en-US": "July 2022 Donation and Spending Report"
                     }
                 },
                 {
                     "name": "donate-2022-06",
                     "title": {
                         "zh-CN": "2022年6月 捐赠与支出公示"
+                        "en-US": "June 2022 Donation and Spending Report"
                     }
                 },
                 {
                     "name": "donate-2022-05",
                     "title": {
                         "zh-CN": "2022年5月 捐赠与支出公示"
+                        "en-US": "May 2022 Donation and Spending Report"
                     }
                 },
                 {
                     "name": "donate-2022-04",
                     "title": {
                         "zh-CN": "2022年4月 捐赠与支出公示"
+                        "en-US": "April 2022 Donation and Spending Report"
                     }
                 },
                 {
                     "name": "donate-2022-03",
                     "title": {
                         "zh-CN": "2022年3月 捐赠与支出公示"
+                        "en-US": "March 2022 Donation and Spending Report"
                     }
                 },
                 {
                     "name": "donate-2022-02",
                     "title": {
                         "zh-CN": "2022年2月 捐赠与支出公示"
+                        "en-US": "February 2022 Donation and Spending Report"
                     }
                 },
                 {
                     "name": "donate-2022-01",
                     "title": {
                         "zh-CN": "2022年1月 捐赠与支出公示"
+                        "en-US": "January 2022 Donation and Spending Report"
                     }
                 },
                 {
                     "name": "donate-2021-12",
                     "title": {
                         "zh-CN": "2021年12月 捐赠与支出公示"
+                        "en-US": "December 2021 Donation and Spending Report"
                     }
                 },
                 {
                     "name": "donate-2021-11",
                     "title": {
                         "zh-CN": "2021年11月 捐赠与支出公示"
+                        "en-US": "November 2021 Donation and Spending Report"
                     }
                 },
                 {
                     "name": "donate-2021-10",
                     "title": {
                         "zh-CN": "2021年10月 捐赠与支出公示"
+                        "en-US": "October 2021 Donation and Spending Report"
                     }
                 },
                 {
                     "name": "donate-2021-09",
                     "title": {
                         "zh-CN": "2021年9月 捐赠与支出公示"
+                        "en-US": "September 2021 Donation and Spending Report"
                     }
                 },
                 {
                     "name": "donate-2021-08",
                     "title": {
                         "zh-CN": "2021年8月 捐赠与支出公示"
+                        "en-US": "August 2021 Donation and Spending Report"
                     }
                 },
                 {
                     "name": "donate-2021-07",
                     "title": {
                         "zh-CN": "2021年7月 捐赠与支出公示"
+                        "en-US": "July 2021 Donation and Spending Report"
                     }
                 }
             ]
@@ -199,6 +220,7 @@
                     "name": "2021-07",
                     "title": {
                         "zh-CN": "2021年7月 月度报告"
+                        "en-US": "July 2021 Monthly Report"
                     }
                 }
             ]
