@@ -105,7 +105,7 @@ links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"
 title: Deemo
 caption: {"en-US":"Deemo official charts","ja-JP":"Deemoの公式譜面","zh-CN":"Deemo官谱"}
 icon: img:assets/server-list/deemo.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://sonolus.milkbun.org/deemo","icon":"img:img/flags/us.svg"},{"name":{"zh-CN":"美国洛杉矶加速线路","en-US":"America Los Angles Proxy Line","ja-JP":"米ロサンゼルスバイパス線"},"link":"https://servers.sonolus.cn/deemo","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://sonolus.milkbun.org/deemo","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
