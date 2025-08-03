@@ -7,29 +7,19 @@
 
 ## 下载与更新
 
-如果需要下载最新版本的Sonolus，请移步至官网下载。
-**反代官网**是通过反向代理技术创建的Sonolus官网，具有与Sonolus官网完全一致的内容，但它对于国内用户的访问速度可能更加友好。
-[Sonolus官网](https://sonolus.com) | [反代官网](https://sonolus.reikohaku.fun)
+请在[官方网站](https://sonolus.com/)下载最新版本，本站点不提供任何二进制文件。
 
 如果需要寻求安装方面的帮助，请移步至[快速上手Sonolus](/guide/quick-start)。
 
-## 近期推荐
-
-在 Sonolus 中体验独家的新时代 3D 旋转下落式节奏游戏吧！
-
-:::server-card
-title: {"zh-CN":"Horizon","en-US":"Horizon"}
-caption: {"en-US":"New 3D rotating rhythm game", "zh-CN":"创新3D旋转下落式节奏游戏"}
-icon: img:favicon.ico
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://coconut.sonolus.com/horizon","icon":"img:img/flags/us.svg"}]
-:::
-
 ## 加入我们
 
-<img src="https://sonolus.com/res/discord-brands.png" style="height: 1em"/>Discord：[https://discord.gg/ysEUZ3D](https://discord.gg/ysEUZ3D)
+官方 Discord 已关闭，请在 Sonolus 客户端内，进入官方服务器发帖交流。
+
+### 非官方中文社区
 
 <img src="https://sonolus.com/res/qq-brands.png" style="height: 1em"/>QQ：
 
+  * 频道：[Sonolus CN](https://pd.qq.com/s/5h0ijwbfr)
   * 1群：1126890062
   * 2群：885950721
   * 3群：806148019
