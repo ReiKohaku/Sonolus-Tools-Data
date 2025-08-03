@@ -2,19 +2,7 @@
 
 本页面收集了部分可用的服务器列表，点击对应线路后方的**复制**按钮即可复制到剪切板。
 
-**重要：0.8.0 版本绝大部分地址有更新，请注意修改！**
-
-*<font size="32px" color="red">如果原生线路没有问题，请优先使用原生线路！！！</font>*
-
-<details>
-<summary>分流线路是做什么用的？</summary>
-
-由于原生线路使用了Cloudflare，其对于海外用户的加速效果非常优秀，而在国内的部分地区会出现连接缓慢或连接失败的情况。为了帮助这部分用户方便地使用本软件，特开设分流线路。
-
-***分流线路并不会比原生线路更快***，甚至对于绝大部分用户来说很多时候会***更慢***。因此，请优先尝试原生线路吧。
-</details>
-
-**如果发现某条线路不可用，请尝试更换线路使用。**
+**Sonolus 正式版已发布，建议使用官方 coconuts 社区发布新玩法，本页面仅作存档使用，不保证所有链接可用，敬请谅解。**
 
 ## 我应该怎么使用它们？
 
@@ -22,17 +10,11 @@
 
 ## 列表
 
-提示：
-
-- 国内加速线路由于CDN流量较贵，不定期开放加速服务，请有条件的用户尽可能使用**Cloudflare原生线路**。
+如果发现服务器不可用，请先检查您的网络状况；确认没有问题或没有条件时，可向他人询问；若仍无法确认，可在官方社区询问。
 
 **快速跳转**<br />
 [Coconut 托管服务器](/server-list#Coconut%20托管服务器)<br />
-[特别服务器](/server-list#特别服务器)<br />
-[小游戏](/server-list#小游戏)<br />
 [公共多人游戏服务器](/server-list#公共多人游戏服务器)<br />
-[特别服务器](/server-list#特别服务器)<br />
-[小游戏](/server-list#小游戏)<br />
 [官方谱面服务器](/server-list#官方谱面服务器)<br />
 [自制谱面服务器](/server-list#自制谱面服务器)<br />
 
@@ -45,36 +27,20 @@ icon: img:favicon.ico
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://coconut.sonolus.com/horizon","icon":"img:img/flags/us.svg"}]
 :::
 
+:::server-card
+title: {"zh-CN":"小游戏合集","en-US":"Games","ja-JP":"ミニゲーム"}
+caption: {"zh-CN":"小游戏合集服务器","en-US":"Games Server","ja-JP":"ミニゲーム"}
+icon: img:assets/server-list/fifteen.png
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://coconut.sonolus.com/games","icon":"img:img/flags/us.svg"}]
+:::
+
 ### 公共多人游戏服务器
 
 :::server-card
 title: {"zh-CN":"公共多人游戏服务器","en-US":"Public Multiplayer Server"}
 caption: {"en-US":"A public multiplayer server", "zh-CN":"公共多人游戏服务器，可连接到此服务器体验多人游戏"}
 icon: img:favicon.ico
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/multiplayer","icon":"img:img/flags/us.svg"}]
-:::
-
-### 特别服务器
-:::server-card
-title: {"zh-CN":"性能测试","en-US":"Performance Test","ja-JP":"パフォーマンステスト"}
-caption: {"en-US":"Sonolus player favorite bread test!", "zh-CN":"Sonolus玩家最爱的面包测试！"}
-icon: img:favicon.ico
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/performance-test","icon":"img:img/flags/us.svg"}]
-:::
-
-### 小游戏
-:::server-card
-title: {"zh-CN":"十五拼图","en-US":"Fifteen Puzzle","ja-JP":"フィフティーンパズル"}
-caption: {"zh-CN":"十五拼图小游戏","en-US":"A Fifteen Puzzle Game","ja-JP":"フィフティーンパズルゲーム"}
-icon: img:assets/server-list/fifteen.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/fifteen","icon":"img:img/flags/us.svg"}]
-:::
-
-:::server-card
-title: {"zh-CN":"猜词游戏","en-US":"Wordle","ja-JP":"Wordle"}
-caption: {"zh-CN":"猜词小游戏","en-US":"A Wordle Game","ja-JP":"Wordle"}
-icon: img:assets/server-list/wordle.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://servers.sonolus.com/wordle","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://multiplayer.sonolus.com","icon":"img:img/flags/us.svg"}]
 :::
 
 ### 官方谱面服务器
@@ -87,13 +53,6 @@ links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"
 :::
 
 :::server-card
-title: {"zh-CN":"世界计划 多彩舞台！feat. 初音未来（备用）","en-US":"Project SEKAI Colorful Stage! feat.Hatsune Miku (backup)","ja-JP":"プロジェクトセカイ-カラフルステージ！feat. 初音ミク（バックアップ）"}
-caption: {"zh-CN":"[非优先使用，建议使用另一个] 世界计划 多彩舞台！feat. 初音未来官谱","en-US":"[Not recommended, use another one] Project SEKAI Colorful Stage! feat.Hatsune Miku official charts","ja-JP":"[お勧めしません。別のものを使ってください] プロセカの公式譜面"}
-icon: img:assets/server-list/pjsekai.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://sonolus.pjsek.ai/","icon":"img:img/flags/us.svg"}]
-:::
-
-:::server-card
 title: {"zh-CN":"BanG Dream! 少女乐团派对","en-US":"BanG Dream! Girls Band Party","ja-JP":"ガルパ"}
 caption: {"zh-CN":"BanG Dream! 少女乐团派对官谱","en-US":"BanG Dream! Girls Band Party official charts","ja-JP":"ガルパの公式譜面"}
 icon: img:assets/server-list/bangdream.png
@@ -101,10 +60,24 @@ links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"
 :::
 
 :::server-card
+title: {"zh-CN":"[凸透界面] BanG Dream! & LLSIF & 22/7","en-US":"[Convexity] BanG Dream! & LLSIF & 22/7","ja-JP":"[凸性] ガルパ & スクフェス & 22/7"}
+caption: {"zh-CN":"引擎将舞台 UI 修改为了凸透形状","en-US":"Using convexity engine","ja-JP":"エンジンはステージUIを凸透形状に変更しました"}
+icon: img:assets/server-list/bangdream.png
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://convexity.qwewqa.xyz","icon":"img:img/flags/us.svg"}]
+:::
+
+:::server-card
 title: {"ja-JP":"スクフェス","zh-CN":"Lovelive! 学园偶像祭","en-US":"Bestdori! custom chart community"}
 caption: {"zh-CN":"LLSIF官谱","en-US":"LLSIF official charts","ja-JP":"スクフェスの公式譜面"}
 icon: img:assets/server-list/llsif.png
 links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://sonolus.milkbun.org/llsif","icon":"img:img/flags/us.svg"}]
+:::
+
+:::server-card
+title: {"ja-JP":"グルミク","zh-CN":"D4DJ Groovy Mix","en-US":"D4DJ Groovy Mix"}
+caption: {"zh-CN":"D4DJ 官谱","en-US":"D4DJ official charts","ja-JP":"スクフェスの公式譜面"}
+icon: img:assets/server-list/llsif.png
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://d4dj.sonolus.gorenganhunter.my.id","icon":"img:img/flags/us.svg"}]
 :::
 
 :::server-card
@@ -136,18 +109,10 @@ links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"
 :::
 
 :::server-card
-title: {"zh-CN":"Honeyworks Premium Live","en-US":"Honeyworks Premium Live","ja-JP":"ハニプレ"}
-caption: {"en-US":"Honeyworks Premium Live official charts", "zh-CN":"Honeyworks Premium Live 官谱", "ja-JP":"ハニプレの公式譜面"}
-icon: img:assets/server-list/honeyworks.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://hwpl.server.littleyang.me/","icon":"img:img/flags/us.svg"}]
-third-party: true
-:::
-
-:::server-card
 title: {"zh-CN":"World Dai Star 梦想的群星","en-US":"World Dai Star","ja-JP":"ワールドダイスター 夢のステラリウム"}
 caption: {"en-US":"World Dai Star official charts", "zh-CN":"World Dai Star 梦想的群星 官谱", "ja-JP":"ユメステの公式譜面"}
 icon: img:assets/server-list/world-dai-star.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://wds.server.littleyang.icu/","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://wds.server.littleyang.com.cn","icon":"img:img/flags/us.svg"}]
 thrid-party: true
 :::
 
@@ -155,12 +120,11 @@ thrid-party: true
 title: {"zh-CN":"Phigros","en-US":"Phigros","ja-JP":"Phigros"}
 caption: {"en-US":"Phigros official charts", "zh-CN":"Phigros 官谱", "ja-JP":"Phigros の公式譜面"}
 icon: img:assets/server-list/phigros.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://phigros.server.littleyang.icu/","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://phigros.server.littleyang.com.cn","icon":"img:img/flags/us.svg"}]
 thrid-party: true
 :::
 
 ### 自制谱面服务器
-
 
 :::server-card
 title: {"zh-CN":"Chart Cyanvas 水板","en-US":"Chart Cyanvas","ja-JP":"Chart Cyanvas 水板"}
@@ -189,7 +153,7 @@ links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"
 title: {"zh-CN":"Stellarity","en-US":"Stellarity","ja-JP":"Stellarity"}
 caption: {"en-US":"World Dai Star custom charts", "zh-CN":"World Dai Star 梦想的群星 自制谱", "ja-JP":"ユメステの創作譜面"}
 icon: img:assets/server-list/stellarity.png
-links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://stellarity.littleyang.icu/","icon":"img:img/flags/us.svg"}]
+links: [{"name":{"en-US":"Cloudflare","zh-CN":"Cloudflare原生线路"},"link":"https://stellarity.littleyang.com.cn","icon":"img:img/flags/us.svg"}]
 thrid-party: true
 :::
 
