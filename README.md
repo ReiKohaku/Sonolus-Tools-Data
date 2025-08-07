@@ -13,3 +13,21 @@ Sonolus Tools Data
 > zh-CN
 
 这样框架就会使用该语言作为获取内容失败时的默认语言。
+
+---------------------------------------------------------------------------------------
+
+# Sonolus-Tools-Data
+
+Sonolus Tools Data
+
+## Add Translations
+
+To add a translation, simply create the corresponding file under the folder for the specific language code.
+
+## Change Default Language
+
+Open `.defaultlang` and set its content to the default language code, for example:
+
+> zh-CN
+
+This way, the framework will use this language as the default when content fails to load.
